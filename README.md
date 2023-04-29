@@ -1,8 +1,8 @@
-# P²C² Management Style: some golden rules for Team Management
+## P²C² Management Style
 
 Some golden rules for Team Management in different languages.
 
-## Lincense Terms Agreement
+#### Lincense Terms Agreement
 
 Every single file in a specific language has its own license which is Creative Commons Non Commrecial No Derivates Share Alike 4.0 International
 
@@ -17,13 +17,13 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
- * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ * Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
- * NonCommercial — You may not use the material for commercial purposes.
+ * NonCommercial - You may not use the material for commercial purposes.
 
- * NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+ * NoDerivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
- * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+ * No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
  
 The full legal text of the CC BY-NC-ND 4.0 International License Terms can be retireved from here
 
