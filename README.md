@@ -2,6 +2,12 @@
 
 Some golden rules for Team Management in different languages.
 
+EN - Permissive, Persuasive, Confident, Cultivator
+IT - Permissivo, Persuasivo, Confidente, Coltivatore
+FR - Permissif, Persuasive, Confiant, Cultivator
+ES - Permisivo, Persuasivo, Confidente, Cultivator
+DE - Permissiv, Persuasive, Selbstbewusst, Gärtner
+
 #### Lincense Terms Agreement
 
 Every single file in a specific language has its own license which is Creative Commons Non Commrecial No Derivates Share Alike 4.0 International
