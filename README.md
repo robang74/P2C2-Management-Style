@@ -22,9 +22,9 @@ Every single file in a specific language has its own license which is Creative C
 
 - https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-Instead, the collection of these files is protected like a database under the GNU Affero General Public License v3.0 reported into LICENSE file.
+Instead, the collection of these files is protected like a database under the GNU Affero General Public License v3.0 reported into LICENSE file. Thus, a single file can be considered by its own license but two or more are a sub-collection and they should considered protected like a database. Moreover a derived work of this collection which is licensed under the AGPLv3 also.
 
-Thus, a single file can be considered by its own license but two or more are a sub-collection and they should considered protected like a database.
+The AGPLv3 license applies to the composition unless you are the original copyright owner or the author of a specific unmodified file. This means that every one that can legally claim rights about the original files maintains its rights, obviously. So, it should not need to complain with the GPLv3 license applied to the composition. Unless, the composition is adopted for the part which had not the rights, before.
 
 You are free to share and copy and redistribute the material in any medium or format
 The licensor cannot revoke these freedoms as long as you follow the license terms.
