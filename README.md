@@ -8,7 +8,7 @@ Every single file in a specific language has its own license which is Creative C
 
 - https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-Instead, the collection of these files is protected like a database under the GNU Affero General Public License v3.0 below reported.
+Instead, the collection of these files is protected like a database under the GNU Affero General Public License v3.0 reported into LICENSE file.
 
 Thus, a single file can be considered by its own license but two or more are a sub-collection and they should considered protected like a database.
 
