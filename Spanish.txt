@@ -21,7 +21,7 @@ Confidente:
   - paciencia: los resultados a veces tardan en llegar
   - atención: fuera del método hay caos
   - mirada hacia adelante: una vez hecho, está hecho, aprende la lección
-  - coraje: no empieces con la idea de abandonar pero abandona cuando sea útil
+  - coraje: no empieces con la idea de abandonar, pero abandona cuando sea útil
 
 Cultivator:
   - todos tienen derecho a tener un camino de crecimiento personalizado
