@@ -21,7 +21,7 @@ Confidente:
   - pazienza: i risultati a volte tardano ad arrivare
   - attenzione: al di fuori del metodo c'é il caos
   - sguardo in avanti: una volta fatto é fatto, impara la lezione
-  - coraggio: non cominciare con l’idea di smetter ma smetti se é utile
+  - coraggio: non cominciare con l’idea di smettere, ma smetti se é utile
 
 Coltivatore:
   - tutti hanno diritto di avere un percorso di crescita personalizzato
