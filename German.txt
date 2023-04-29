@@ -2,35 +2,34 @@
                  Permissiv, Persuasive, Selbstbewusst, Gärtner                   
 
 Permissiv:
-     - Inklusion, weil jeder anders ist
-     - Offener Dialog, weil wir alle lernen können
-     - Transparenz, weil Vertrauen nicht Option ist
-     - Delegation, weil Mikromanagement eine lästige Verschwendung ist
-     - Flexibilität, sofern die Ziele regelmäßig erreicht werden
-     - Angemessene N+1 Ziele, die Herausforderung liegt im +1
+  - Inklusion, weil jeder anders ist
+  - Offener Dialog, weil wir alle lernen können
+  - Transparenz, weil Vertrauen nicht Option ist
+  - Delegation, weil Mikromanagement eine lästige Verschwendung ist
+  - Flexibilität, sofern die Ziele regelmäßig erreicht werden
+  - Angemessene N+1 Ziele, die Herausforderung liegt im +1
 
 Persuasive:
-     - Menschen davon überzeugen, dass sie in der Lage sind,
+  - Menschen davon überzeugen, dass sie in der Lage sind,
                                                      die Situation zu bewältigen
-     - Anerkennung, dass ihre Zusammenarbeit geschätzt wird
-     - Implizite Weise kommunizieren dass niemand unersetzlich ist
-     - Meine Tür ist offen, aber meine Zeit ist nicht kostenlos
-     - Fragen Sie zweimal getrennt, wenn die Entscheidung kritisch ist
+  - Anerkennung, dass ihre Zusammenarbeit geschätzt wird
+  - Implizite Weise kommunizieren dass niemand unersetzlich ist
+  - Meine Tür ist offen, aber meine Zeit ist nicht kostenlos
+  - Fragen Sie zweimal getrennt, wenn die Entscheidung kritisch ist
 
 Selbstbewusst:
-     - Vertrauen Sie der Methode, besonders wenn etwas schief geht
-     - Geduld: manchmal können Ergebnisse länger dauern
-     - Achtung: jenseits der Methode gibt es das Chaos
-     - Nach vorne schauen: Wenn es erledigt ist, ist es erledigt,
-                                                               lerne die Lektion
-     - Mut: nicht starten mit dem Gedanken an, aufzuhören,
+  - Vertrauen Sie der Methode, besonders wenn etwas schief geht
+  - Geduld: manchmal können Ergebnisse länger dauern
+  - Achtung: jenseits der Methode gibt es das Chaos
+  - Nach vorne schauen: Wenn es erledigt ist, ist es erledigt, lerne die Lektion
+  - Mut: nicht starten mit dem Gedanken an, aufzuhören,
                                               aber aufhören wenn es nützlich ist
 
 Gärtner:
-     - Jeder hat das Recht auf einen personalisierten Wachstumspfad
-     - Jeder Mensch ist anders und damit auch sein Karriereweg
-     - Großes Glück hat der Manager, der seinen zukünftigen Chef befördert
-     - Der Manager, der einlädt, die Besten zu verlassen, muss reflektieren
+  - Jeder hat das Recht auf einen personalisierten Wachstumspfad
+  - Jeder Mensch ist anders und damit auch sein Karriereweg
+  - Großes Glück hat der Manager, der seinen zukünftigen Chef befördert
+  - Der Manager, der einlädt, die Besten zu verlassen, muss reflektieren
 
 ________________________________________________________________________________
   © 2023, Roberto A. Foglietta, CC BY-NC-ND 4.0 – updated on 2023.04.29
