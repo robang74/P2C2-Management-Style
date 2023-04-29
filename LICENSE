@@ -1,31 +1,48 @@
-LICENSE TERMS AGREEMENT
+### LICENSE TERMS AGREEMENT ###
 
-Every single file in a specific language has its own license which is Creative Commons Non Commrecial No Derivates Share Alike 4.0 International
+Every single file in a specific language has its own license which is Creative
+Commons Non Commrecial No Derivates Share Alike 4.0 International
 
-- https://creativecommons.org/licenses/by-nc-nd/4.0/
+ - https://creativecommons.org/licenses/by-nc-nd/4.0
 
-Instead, the collection of these files is protected like a database under the GNU Affero General Public License v3.0 below reported.
+Instead, the collection of these files is protected like a database under the
+GNU Affero General Public License v3.0 reported into LICENSE file. Thus, a
+single file can be considered by its own license but two or more are a
+sub-collection and they should considered protected like a database. Moreover a
+derived work of this collection which is licensed under the AGPLv3 also.
 
-Thus, a single file can be considered by its own license but two or more are a sub-collection and they should considered protected like a database.
+The AGPLv3 license applies to the composition unless you are the original
+copyright owner or the author of a specific unmodified file. This means that
+every one that can legally claim rights about the original files maintains its
+rights, obviously. So, it should not need to complain with the GPLv3 license
+applied to the composition. Unless, the composition is adopted for the part
+which had not the rights, before.
 
-You are free to share and copy and redistribute the material in any medium or format
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+You are free to share and copy and redistribute the material in any medium or
+format The licensor cannot revoke these freedoms as long as you follow the
+license terms.
 
 Under the following terms:
 
- * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Attribution - You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
 
- * NonCommercial — You may not use the material for commercial purposes.
+* NonCommercial - You may not use the material for commercial purposes.
 
- * NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+* NoDerivatives - If you remix, transform, or build upon the material,
+  you may not distribute the modified material.
 
- * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
- 
-The full legal text of the CC BY-NC-ND 4.0 International License Terms can be retireved from here
+* No additional restrictions - You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
 
-- https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+The full legal text of the CC BY-NC-ND 4.0 International License Terms can be
+retireved from here
 
-=====================================================================
+ - https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+================================================================================
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
