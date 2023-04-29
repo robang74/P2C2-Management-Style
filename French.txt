@@ -14,7 +14,7 @@ Persuasive:
   - leur faire savoir que leur collaboration est appréciée
   - laisser comprendre que personne n'est indispensable
   - ma porte est ouverte mais mon temps n'est pas gratuit
-  - demander deux fois séparément lorsque la décision est critique
+  - demander deux fois en deux temps distincts, si la décision est critique
 
 Confiant:
   - confiance dans la méthode surtout quand les choses vont mal 
