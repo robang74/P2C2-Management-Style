@@ -11,6 +11,20 @@ Some golden rules for Team Management in different languages.
  * ES - Permisivo, Persuasivo, Confidente, Cultivator
 
  * DE - Permissiv, Persuasive, Selbstbewusst, Gärtner
+
+Download from this link:
+ 
+ - https://github.com/robang74/P2C2-Management-Style/raw/main/p2c2-management-style.pdf
+ 
+## My SCRUM in a nutshell
+
+Download from this link:
+
+ - https://github.com/robang74/P2C2-Management-Style/raw/main/my-scrum-in-a-nutshell.pdf
+ 
+A single A4 slide about SCRUM/Agile Project Management illustrating the basics and their interconnections plus a short presentation of how to address a from-scratch IT system creation based on 20:80 Pareto's principle to speed up the convergence towards the delivery by progressive cycles of improvement.
+
+----- 
  
 Feel free to suggest improvements writing to
 
